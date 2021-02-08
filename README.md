@@ -1,5 +1,4 @@
 # hello-world
-Just my first repository :P
 
 Hello!
 
